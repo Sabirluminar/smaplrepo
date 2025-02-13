@@ -34,3 +34,7 @@ command for adding remote
 
 chk remote added 
 >git remote -v
+
+command for pushing 
+
+>git push remotename branch(master/main)
