@@ -42,3 +42,5 @@ command for pushing
 command for listing branches
 
 >git branch
+
+>git stash
